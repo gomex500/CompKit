@@ -1,0 +1,22 @@
+{
+  "name": "compkit",
+  "version": "1.0.0",
+  "description": "module for reusable components in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomex500/CompKit.git"
+  },
+  "keywords": [
+    "compkit"
+  ],
+  "author": "gomex500",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gomex500/CompKit/issues"
+  },
+  "homepage": "https://github.com/gomex500/CompKit#readme"
+}
